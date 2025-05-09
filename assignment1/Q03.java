@@ -1,7 +1,5 @@
 package assignment1;
-
 import java.util.Scanner;
-
 public class Q03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -9,16 +7,16 @@ public class Q03 {
         int s = n;
         int p = n;
         int sum = 0;
+        int prod = 1;
 
-        int prod;
-        int rem;
-        for(prod = 1; s > 0; sum += rem) {
-            rem = s % 10;
-            s /= 10;
+        while(s>0) {
+            int rem = s%10;
+            s/=10;
+            sum+=rem;
         }
 
         while(p > 0) {
-            rem = p % 10;
+            int rem = p % 10;
             p /= 10;
             prod *= rem;
         }
