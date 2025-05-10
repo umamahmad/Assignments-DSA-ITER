@@ -19,7 +19,7 @@ public class Q09 {
             }
         }
         double sum = sumMajorDiagonal(arr);
-        System.out.println("Sum the the major diagonal of the matrix: "+sum);
+        System.out.println("Sum of the major diagonal of the matrix: "+sum);
     }
     public static double sumMajorDiagonal(double[][]m)
     {
@@ -39,5 +39,5 @@ Enter the elements of the matrix:
 12.3 52.3 69.1
 56.3 25.7 15.9
 56.1 25.9 78.4
-Sum the the major diagonal of the matrix: 116.4
+Sum of the major diagonal of the matrix: 116.4
  */
