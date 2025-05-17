@@ -52,7 +52,17 @@ public class Q02
 
         res.display();
 
-
-
     }
 }
+
+/*
+Enter the real part of the first num:
+23
+Enter the imaginary part of the first num:
+63.64
+Enter the real part of the second num:
+12
+Enter the imaginary part of the second num:
+6.47
+The Complex number is: 35.0+70.11i
+ */
