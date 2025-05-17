@@ -22,14 +22,24 @@ class Car1 extends Vehicle {
     }
 
     void display() {
-
+        System.out.println("Car model: "+ model);
+        System.out.println("Launched year: "+ year);
+        System.out.println("Car ID: "+ CarID);
+        System.out.println("Car Price: "+ price);
     }
 }
 
 public class Q06 {
     public static void main(String[] args) {
-
-
+         Car1 mycar = new Car1("BMW", 2021, 32568, 5450500.32);
+         mycar.display();
     }
 
 }
+
+/*
+Car model: BMW
+Launched year: 2021
+Car ID: 32568
+Car Price: 5450500.32
+ */
