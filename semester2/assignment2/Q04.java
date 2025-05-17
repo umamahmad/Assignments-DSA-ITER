@@ -74,7 +74,27 @@ public class Q04
     }
 }
 
+/*
+Principal: 0
+Time: 0years
+Rate: 0.0%
+The Total Amount: 0.0
 
+Principal: 23000
+Time: 4years
+Rate: 8.3%
+The Total Amount: 23230.123
+
+Principal: 45000
+Time: 10years
+Rate: 5.7%
+The Total Amount: 45450.157
+
+Principal: 23500
+Time: 12years
+Rate: 4.7%
+The Total Amount: 23735.167
+ */
 
 
 
