@@ -47,3 +47,12 @@ public class Q08 {
 
     }
 }
+
+/*
+Flying
+Swimming
+
+Duck Name: Donald
+Fly Status: Flying
+Swim Status: Swimming
+ */
