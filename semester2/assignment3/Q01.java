@@ -23,3 +23,9 @@ public class Q01 {
 
     }
 }
+
+/*
+Enter your lucky number:
+-6
+Invalid input: Negative numbers are not allowed.
+ */
