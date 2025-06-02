@@ -54,7 +54,7 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 ---
 
-## ⭐ If you find this helpful, consider starring the repo!
+## ⭐ If you find this helpful, consider starring the repo!!
 
 
 
